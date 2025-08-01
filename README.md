@@ -1,24 +1,14 @@
-# README
+# Rails API Scaffold
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Rails API-only scaffold project with the following preconfigured components:
 
-Things you may want to cover:
+- PostgreSQL (via Docker Compose)
+- JSON:API serialization (`jsonapi-serializer`)
+- JWT authentication
+- Swagger documentation (`rswag`)
+- CORS support (`rack-cors`)
+- Environment-based configuration using `.env`
+- RSpec test suite
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
