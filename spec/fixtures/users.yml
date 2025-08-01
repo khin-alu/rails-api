@@ -1,0 +1,7 @@
+one:
+  name: "Test User"
+  email: "test@example.com"
+
+two:
+  name: "Another User"
+  email: "another@example.com" 
